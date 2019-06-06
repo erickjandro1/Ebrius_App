@@ -1,0 +1,2 @@
+# Ebrius_App
+Ebrius App consiste en utilizarla mientras los usuarios estén de fiesta. Ofrece distintos servicios, uno de ellos es el acceso a las promociones de bebidas alcohólicas de distintas tiendas de autoservicio, otra de ellas es un "Timer" para no perder la noción de tiempo mientras estás de fiesta, por último un medidor de alcoholemia en la sangre para que "no te vayas a pasar", en caso de que lo hagas, Ebrius App te avisará si puedes conducir tu automóvil o no,  con el fin de brindar seguridad, tanto para sus celulares, como para ellos mismos.
